@@ -27,9 +27,9 @@
 
 <div id="stat" align="center">
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=igor161rus&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=igor161rus&theme=github_dark&utcOffset=8)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=igor161rus&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=urykama&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=urykama&theme=github_dark&utcOffset=8)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=urykama&theme=github_dark)
 
 </div>
 
