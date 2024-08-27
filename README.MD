@@ -1,7 +1,7 @@
 <div id="header" align="center">
-<h1> Проект по определению объектов на фотографиях 
+<h1> Дипломная работа по курсу "Python-разработчик"
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Проект позволяет определять объекты на загруженных фотографиях.</h3>
+<h3 align="center">Тема проекта: Анализ и сравнение написания web-приложений с использованием разных фреймворков: Разработать простые веб-приложения с использованием Django, Flask и FastAPI, провести их сравнение.</h3>
 </div>
 <div id="header2" align="center">
 <a href="https://t.me/UU_diplom_bot">
